@@ -1,0 +1,74 @@
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: family-budget-db
+    environment:
+      POSTGRES_DB: familybudget
+      POSTGRES_USER: budgetuser
+      POSTGRES_PASSWORD: Budget123!
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - budget-network
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: family-budget-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - budget-network
+
+  # RabbitMQ Message Queue
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: family-budget-rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: budgetuser
+      RABBITMQ_DEFAULT_PASS: Budget123!
+    ports:
+      - "5672:5672"   # AMQP port
+      - "15672:15672" # Management UI
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    networks:
+      - budget-network
+
+  # API Service (will be built later)
+  api:
+    build:
+      context: ./backend
+      dockerfile: FamilyBudget.API/Dockerfile
+    container_name: family-budget-api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Database=familybudget;Username=budgetuser;Password=Budget123!
+      - Redis__ConnectionString=redis:6379
+      - RabbitMQ__HostName=rabbitmq
+      - RabbitMQ__UserName=budgetuser
+      - RabbitMQ__Password=Budget123!
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+    depends_on:
+      - postgres
+      - redis
+      - rabbitmq
+    networks:
+      - budget-network
+
+volumes:
+  postgres_data:
+  redis_data:
+  rabbitmq_data:
+
+networks:
+  budget-network:
+    driver: bridge

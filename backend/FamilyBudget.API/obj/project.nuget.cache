@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbWUFU4eeKc=",
+  "success": true,
+  "projectFilePath": "D:\\OurBudget\\backend\\FamilyBudget.API\\FamilyBudget.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
