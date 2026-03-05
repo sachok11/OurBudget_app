@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OrTdW3efrBrMvcGhSk+Y1j6mCDp2eQtTfeZNt1k1dL8=",
+  "Source": "FamilyBudget.API",
+  "BasePath": "_content/FamilyBudget.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

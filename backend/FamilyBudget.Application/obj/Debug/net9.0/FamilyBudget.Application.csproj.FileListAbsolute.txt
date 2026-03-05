@@ -1,0 +1,16 @@
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Application.deps.json
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Application.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Application.pdb
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Core.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Core.pdb
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.csproj.AssemblyReference.cache
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.AssemblyInfoInputs.cache
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.AssemblyInfo.cs
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.csproj.CoreCompileInputs.cache
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.sourcelink.json
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBu.FFAFB0C5.Up2Date
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\refint\FamilyBudget.Application.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.pdb
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\ref\FamilyBudget.Application.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FamilyBudget.Application/1.0.0": {
+        "dependencies": {
+          "FamilyBudget.Core": "1.0.0"
+        },
+        "runtime": {
+          "FamilyBudget.Application.dll": {}
+        }
+      },
+      "FamilyBudget.Core/1.0.0": {
+        "runtime": {
+          "FamilyBudget.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FamilyBudget.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FamilyBudget.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

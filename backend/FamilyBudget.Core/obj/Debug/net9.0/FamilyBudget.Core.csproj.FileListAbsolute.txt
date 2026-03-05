@@ -1,0 +1,12 @@
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\bin\Debug\net9.0\FamilyBudget.Core.deps.json
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\bin\Debug\net9.0\FamilyBudget.Core.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\bin\Debug\net9.0\FamilyBudget.Core.pdb
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.AssemblyInfoInputs.cache
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.AssemblyInfo.cs
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.csproj.CoreCompileInputs.cache
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.sourcelink.json
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\refint\FamilyBudget.Core.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\FamilyBudget.Core.pdb
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Core\obj\Debug\net9.0\ref\FamilyBudget.Core.dll
