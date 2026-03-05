@@ -130,3 +130,15 @@ D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\obj\Debug\net9.0\refint\Fami
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\obj\Debug\net9.0\FamilyBudget.API.pdb
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\obj\Debug\net9.0\FamilyBudget.API.genruntimeconfig.cache
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\obj\Debug\net9.0\ref\FamilyBudget.API.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

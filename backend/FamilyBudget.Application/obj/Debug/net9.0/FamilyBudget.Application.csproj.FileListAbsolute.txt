@@ -14,3 +14,5 @@ D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\Fam
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\refint\FamilyBudget.Application.dll
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\FamilyBudget.Application.pdb
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\obj\Debug\net9.0\ref\FamilyBudget.Application.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Infrastructure.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.Application\bin\Debug\net9.0\FamilyBudget.Infrastructure.pdb
