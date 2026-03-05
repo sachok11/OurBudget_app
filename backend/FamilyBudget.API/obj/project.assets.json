@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OurBudget\\backend\\FamilyBudget.API\\FamilyBudget.API.csproj",
+      "projectUniqueName": "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.API\\FamilyBudget.API.csproj",
       "projectName": "FamilyBudget.API",
-      "projectPath": "D:\\OurBudget\\backend\\FamilyBudget.API\\FamilyBudget.API.csproj",
+      "projectPath": "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.API\\FamilyBudget.API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\OurBudget\\backend\\FamilyBudget.API\\obj\\",
+      "outputPath": "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,11 +160,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\OurBudget\\backend\\FamilyBudget.Application\\FamilyBudget.Application.csproj": {
-              "projectPath": "D:\\OurBudget\\backend\\FamilyBudget.Application\\FamilyBudget.Application.csproj"
+            "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.Application\\FamilyBudget.Application.csproj": {
+              "projectPath": "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.Application\\FamilyBudget.Application.csproj"
             },
-            "D:\\OurBudget\\backend\\FamilyBudget.Infrastructure\\FamilyBudget.Infrastructure.csproj": {
-              "projectPath": "D:\\OurBudget\\backend\\FamilyBudget.Infrastructure\\FamilyBudget.Infrastructure.csproj"
+            "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.Infrastructure\\FamilyBudget.Infrastructure.csproj": {
+              "projectPath": "D:\\OurBudget\\OurBudget_app\\backend\\FamilyBudget.Infrastructure\\FamilyBudget.Infrastructure.csproj"
             }
           }
         }
