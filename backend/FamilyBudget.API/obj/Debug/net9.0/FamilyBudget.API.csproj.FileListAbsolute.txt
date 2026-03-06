@@ -142,3 +142,5 @@ D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Swashbuckle
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\OurBudget\OurBudget_app\backend\FamilyBudget.API\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
